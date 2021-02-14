@@ -1,8 +1,12 @@
-//This is Flipkart Login Test.
+package seleniumweb;
 
+public class Flipkart_loginTest {
 
-//Hi This is Flipkart login Test
-//Hi This is Flipkart login Test
-//Hi This is Flipkart login Test
-//Hi This is Flipkart login Test
-//Hi This is Flipkart login Test
+	public static void main(String[] args) {
+		
+		// TODO Auto-generated method stub
+		System.out.println("This is Flipkart loginTest");
+		
+	}
+
+}
